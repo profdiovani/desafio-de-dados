@@ -11,7 +11,7 @@ Repositório com descrição do desafio para oportunidades de engenharia e/ou ci
 
   - Utilize as API's do IBGE para obter dados de localidade, população, PIB e IDH.
   - Utilizar a [API IBGE](https://servicodados.ibge.gov.br/api/docs/)
-  - Armazene os dados em um modelo snowflake, garantindo a integridade e a consistência dos dados.
+  - Armazene os dados em um modelo snowflake ou outro de sua sugestão, garantindo a integridade e a consistência dos dados.
 
 2. Transformação de Dados com PySpark e SQL:
 
