@@ -13,17 +13,17 @@ Repositório com descrição do desafio para oportunidades de engenharia e/ou ci
   - Utilizar a [API IBGE](https://servicodados.ibge.gov.br/api/docs/)
   - Armazene os dados em um modelo snowflake, garantindo a integridade e a consistência dos dados.
 
-1. Transformação de Dados com PySpark e SQL:
+2. Transformação de Dados com PySpark e SQL:
 
   - Utilize PySpark para realizar transformações nos dados, garantindo a qualidade e a relevância das informações.
   - Utilize SQL para consultas e análises específicas no conjunto de dados integrado.
 
-1. Modelagem e Documentação:
+3. Modelagem e Documentação:
 
   - Demonstre a modelagem do seu conjunto de dados, explicando as relações entre as tabelas e as decisões de design adotadas.
   - Entregue um notebook PySpark que documente as etapas de transformação e análise realizadas.
 
-1. Desenvolvimento de Dashboard em PowerBI:
+4. Desenvolvimento de Dashboard em PowerBI:
 
   - Crie um dashboard interativo no PowerBI que destaque os insights mais relevantes obtidos a partir dos dados integrados.
   - O dashboard deve ser intuitivo, apresentando visualizações claras e informativas.
