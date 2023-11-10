@@ -3,7 +3,7 @@ Repositório com descrição do desafio para oportunidades de engenharia e/ou ci
 
 # Objetivo
 
-* O objetivo deste desafio é realizar uma análise integrada de dados provenientes das API's do IBGE, abrangendo informações sobre localidade, população, PIB e IDH. Utilizando ferramentas como PySpark, SQL e PowerBI, espera-se que você demonstre habilidades na análise de dados, modelagem e apresentação visual.
+* O objetivo deste desafio é realizar uma análise integrada de dados provenientes das API's do IBGE, abrangendo informações sobre localidade, população, PIB e IDH. Utilizando ferramentas como PySpark, SQL e PowerBI, espera-se que você demonstre habilidades na análise de dados, modelagem e apresentação visual. O critério de escolha do conjunto de atributos/informações a serem capturadas/processadas será de responsabilidade da pessoa candidata, onde se espera uma análise da relevancia das informações extraídas, tranformações, agrupamentos, correlações.
 
 ## Tarefas do desafio
 
@@ -30,9 +30,10 @@ Repositório com descrição do desafio para oportunidades de engenharia e/ou ci
 
 ## Entregas esperadas
 
-* Notebook PySpark: Inclua um notebook que abranja o processo de extração, transformação e análise dos dados.
-* Modelo Snowflake: Documente a estrutura do seu modelo snowflake, explicando as relações entre as tabelas.
+* Notebook Python/PySpark: Inclua um notebook que abranja o processo de extração, transformação e análise dos dados.
+* Modelo Snowflake ou Outro sugerido: Documente a estrutura do seu modelo snowflake ou outro sugerido, explicando as relações entre as tabelas.
 * Dashboard PowerBI: Entregue o arquivo do PowerBI com o dashboard desenvolvido.
+* Esquema do fluxo de dados (Opcional).
 * As entregas devem ser feitas e compartilhadas no GITHUB da pessoa candidata.
 
 ## Critérios de Avaliação
@@ -43,4 +44,7 @@ Repositório com descrição do desafio para oportunidades de engenharia e/ou ci
 
 
 ## Regras para o desafio
-* O prazo para entrega da solução 
+* O prazo para entrega da solução é de 2 dias a partir do envio do teste para a pessoa candidata.
+* O que se espera é um MVP de um projeto que demontre valor e entregue resultado para tomada de decisão.
+* Se a pessoa candidata fizer uso de qualquer ferramenta de inteligência artificial como ChatGPT ou qualquer outra, deverá explicitar como foi utilizado e o porque.
+
